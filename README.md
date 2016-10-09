@@ -2,7 +2,7 @@
 
 The official Python Client for the Imagizer Media Engine
 
-The Imagizer Media Engine accelerates media delivery to your mobile Apps or Webpages by dynamically rescaling, cropping, and compressing images in real time. See all Imagizer features in our [Doc](demo.imagizercdn.com/doc).
+The Imagizer Media Engine accelerates media delivery to your mobile Apps or Webpages by dynamically rescaling, cropping, and compressing images in real time. See all Imagizer features in our [Doc](http://demo.imagizercdn.com/doc).
 
 ## Basic Usage
 ```python
